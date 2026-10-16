@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "appVersion": "0.2.4",
+  "downloadBaseUrl": "https://github.com/1531927810c-afk/fluxdown-releases/releases/download/v0.2.4/",
+  "files": [
+    {
+      "id": "setup",
+      "filename": "FluxDown-Setup-0.2.4-x64.exe",
+      "size": 111232301,
+      "sha256": "6c1435a7fe07d5fc7ff55881b4bc8afbf423ba5fe370bfb36c96aafc58c760e3",
+      "parts": [
+        "FluxDown-Setup-0.2.4-x64.exe"
+      ]
+    },
+    {
+      "id": "portable",
+      "filename": "FluxDown-Portable-0.2.4-x64.exe",
+      "size": 111006665,
+      "sha256": "9423985084487ee81655e0f1e4f87c7736d520af7f7a76c2244b168213da2d61",
+      "parts": [
+        "FluxDown-Portable-0.2.4-x64.exe"
+      ]
+    }
+  ]
+}
