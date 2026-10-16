@@ -1,3 +1,4 @@
 *.exe
 *.blockmap
 *.part*
+!downloads/*.part*
