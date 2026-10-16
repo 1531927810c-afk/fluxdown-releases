@@ -1,34 +1,34 @@
 {
   "version": 3,
-  "appVersion": "0.2.5",
+  "appVersion": "0.2.6",
   "downloadBaseUrl": "https://cdn.jsdelivr.net/gh/1531927810c-afk/fluxdown-releases@main/downloads/",
   "files": [
     {
       "id": "setup",
-      "filename": "FluxDown-Setup-0.2.5-x64.exe",
-      "size": 111233008,
-      "sha256": "0dab3fd8abdf5cf5d6eac08680cf5f4c1c58435ebd15610292a7c778205986e0",
+      "filename": "FluxDown-Setup-0.2.6-x64.exe",
+      "size": 111233140,
+      "sha256": "0d90059c1367adcd3c209c7cf2205e15f53aa7606dbda26a1062010e3f7ef75a",
       "parts": [
-        "FluxDown-Setup-0.2.5-x64.exe.part01",
-        "FluxDown-Setup-0.2.5-x64.exe.part02",
-        "FluxDown-Setup-0.2.5-x64.exe.part03",
-        "FluxDown-Setup-0.2.5-x64.exe.part04",
-        "FluxDown-Setup-0.2.5-x64.exe.part05",
-        "FluxDown-Setup-0.2.5-x64.exe.part06"
+        "FluxDown-Setup-0.2.6-x64.exe.part01",
+        "FluxDown-Setup-0.2.6-x64.exe.part02",
+        "FluxDown-Setup-0.2.6-x64.exe.part03",
+        "FluxDown-Setup-0.2.6-x64.exe.part04",
+        "FluxDown-Setup-0.2.6-x64.exe.part05",
+        "FluxDown-Setup-0.2.6-x64.exe.part06"
       ]
     },
     {
       "id": "portable",
-      "filename": "FluxDown-Portable-0.2.5-x64.exe",
-      "size": 111007276,
-      "sha256": "b5344004d0e08cbb619caeb96ed0cb449ebb0d4c997760820b2c60a0d03397cf",
+      "filename": "FluxDown-Portable-0.2.6-x64.exe",
+      "size": 111007516,
+      "sha256": "2a020931327ddad3cf627e0f0078dd3707c9acec692ad39418b94e90dec38ad5",
       "parts": [
-        "FluxDown-Portable-0.2.5-x64.exe.part01",
-        "FluxDown-Portable-0.2.5-x64.exe.part02",
-        "FluxDown-Portable-0.2.5-x64.exe.part03",
-        "FluxDown-Portable-0.2.5-x64.exe.part04",
-        "FluxDown-Portable-0.2.5-x64.exe.part05",
-        "FluxDown-Portable-0.2.5-x64.exe.part06"
+        "FluxDown-Portable-0.2.6-x64.exe.part01",
+        "FluxDown-Portable-0.2.6-x64.exe.part02",
+        "FluxDown-Portable-0.2.6-x64.exe.part03",
+        "FluxDown-Portable-0.2.6-x64.exe.part04",
+        "FluxDown-Portable-0.2.6-x64.exe.part05",
+        "FluxDown-Portable-0.2.6-x64.exe.part06"
       ]
     }
   ]
