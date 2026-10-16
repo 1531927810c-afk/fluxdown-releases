@@ -1,7 +1,7 @@
 {
   "version": 3,
   "appVersion": "0.2.5",
-  "downloadBaseUrl": "https://raw.githubusercontent.com/1531927810c-afk/fluxdown-releases/main/downloads/",
+  "downloadBaseUrl": "https://cdn.jsdelivr.net/gh/1531927810c-afk/fluxdown-releases@main/downloads/",
   "files": [
     {
       "id": "setup",
